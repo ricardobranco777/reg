@@ -22,9 +22,8 @@ require (
 	github.com/fernet/fernet-go v0.0.0-20180830025343-9eac43b88a5e // indirect
 	github.com/genuinetools/pkg v0.0.0-20181022210355-2fcf164d37cb
 	github.com/gogo/protobuf v1.3.0 // indirect
-	github.com/google/go-cmp v0.3.1
+	github.com/google/go-cmp v0.5.9
 	github.com/gorilla/mux v1.7.3
-	github.com/grpc-ecosystem/grpc-gateway v1.11.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0
 	github.com/morikuni/aec v0.0.0-20170113033406-39771216ff4c // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1
@@ -33,7 +32,6 @@ require (
 	github.com/peterhellberg/link v1.0.0
 	github.com/shurcooL/httpfs v0.0.0-20190707220628-8d4bc4ba7749
 	github.com/sirupsen/logrus v1.4.2
-	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
-	google.golang.org/grpc v1.23.1
+	google.golang.org/grpc v1.56.3
 	gotest.tools v2.2.0+incompatible // indirect
 )
